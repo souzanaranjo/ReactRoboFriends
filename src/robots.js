@@ -70,4 +70,28 @@ export const robots = [
 		name: 'Carlos Aldrete',
 		username: 'carlosaldrete',
 		email: 'carlosaldrete@gmail.com'
+	},
+	{
+		id: 13,
+		name: 'Yleana Escalante',
+		username: 'yleanaescalante',
+		email: 'escalanteflores@gmail.com'
+	},
+	{
+		id: 14,
+		name: 'Sofia Spohn',
+		username: 'sofiasq',
+		email: 'sofiaspohn@gmail.com'
+	},
+	{
+		id: 15,
+		name: 'Santiago Colmenero',
+		username: 'santiagocol',
+		email: 'santiagocol@gmail.com'
+	},
+	{
+		id: 16,
+		name: 'Hal perry',
+		username: 'halperry',
+		email: 'halperry@gmail.com'
 	}]
