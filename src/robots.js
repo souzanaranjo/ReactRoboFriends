@@ -28,4 +28,10 @@ export const robots = [
 		name: 'Edgardo Leyva',
 		username: 'chupileyva',
 		email: 'chupileyva@gmail.com'
+	},
+	{
+		id: 6,
+		name: 'Luis Rojo',
+		username: 'elrojo',
+		email: 'luisrojo@gmail.com'
 	}]
